@@ -1,0 +1,3 @@
+@id = d0b3bfe3-f5fa-40cb-a10e-5fc72fc62b8c
+
+GET  http://localhost:5272/Store/{{id}}

@@ -1,0 +1,45 @@
+POST http://localhost:5272/Store
+Content-Type: application/json
+
+{
+    "name": "Home Office Furniture",
+    "description": "Furniture optimized for productivity and comfort in home offices, including desks, office chairs, filing cabinets, bookshelves, and ergonomic accessories",
+    "startDateTime": "2022-04-08T08:00:00",
+    "endDateTime": "2022-04-08T11:00:00",
+    "companies": [
+        "Mandaue Foam",
+        "Dimensione",
+        "Home Factory Outlets",
+        "Bambu Furniture",
+        "Furniture Republic",
+        "Metro Furniture",
+        "Cebu Home and Builders Centre (CHBC)",
+        "Designs Ligna",
+        "Our Home"
+    ],
+     "furnitures": [
+        "Sofa",
+        "Armchair",
+        "Dining table",
+        "Dining chairs",
+        "Coffee table",
+        "Side table",
+        "Bed frame",
+        "Mattress",
+        "Wardrobe",
+        "Dresser",
+        "Nightstand",
+        "Bookshelf",
+        "Desk",
+        "Office chair",
+        "TV stand",
+        "Ottoman",
+        "Pouf",
+        "Bench",
+        "Console table",
+        "Bar stool"
+  ]
+}
+
+###
+GET http://localhost:5272/Store/f90184df-3838-408a-8ee3-f34b18b1013d

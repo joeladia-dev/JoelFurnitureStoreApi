@@ -1,0 +1,11 @@
+C:\Users\joelad\JoelStore\JoelStore.Contracts\bin\Debug\net8.0\JoelStore.Contracts.deps.json
+C:\Users\joelad\JoelStore\JoelStore.Contracts\bin\Debug\net8.0\JoelStore.Contracts.dll
+C:\Users\joelad\JoelStore\JoelStore.Contracts\bin\Debug\net8.0\JoelStore.Contracts.pdb
+C:\Users\joelad\JoelStore\JoelStore.Contracts\obj\Debug\net8.0\JoelStore.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joelad\JoelStore\JoelStore.Contracts\obj\Debug\net8.0\JoelStore.Contracts.AssemblyInfoInputs.cache
+C:\Users\joelad\JoelStore\JoelStore.Contracts\obj\Debug\net8.0\JoelStore.Contracts.AssemblyInfo.cs
+C:\Users\joelad\JoelStore\JoelStore.Contracts\obj\Debug\net8.0\JoelStore.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\joelad\JoelStore\JoelStore.Contracts\obj\Debug\net8.0\JoelStore.Contracts.dll
+C:\Users\joelad\JoelStore\JoelStore.Contracts\obj\Debug\net8.0\refint\JoelStore.Contracts.dll
+C:\Users\joelad\JoelStore\JoelStore.Contracts\obj\Debug\net8.0\JoelStore.Contracts.pdb
+C:\Users\joelad\JoelStore\JoelStore.Contracts\obj\Debug\net8.0\ref\JoelStore.Contracts.dll
